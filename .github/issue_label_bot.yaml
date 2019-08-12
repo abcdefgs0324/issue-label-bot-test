@@ -7,6 +7,7 @@ predicted-labels:
     area/enterprise_readiness: area/enterprise_readiness
     improvement/enhancement: improvement/enhancement
     priority/p1: priority/p1
+    priority/p2: priority/p2
     kind/bug: kind/bug
     community/question: community/question
     area/tfjob: 'area/tfjob'
@@ -23,3 +24,6 @@ predicted-labels:
     area/openmpi: 'area/openmpi'
     area/centraldashboard: 'area/centraldashboard'
     area/pipelines: 'area/pipelines'
+    lifecycle/stale: 'lifecycle/stale'
+    area/example/code_search: 'area/example/code_search'
+    area/example/issue_summarization: 'area/example/issue_summarization'
