@@ -2,14 +2,15 @@ repository:
     owner: abcdefgs0324
     name: test-yaml
 predicted-labels:
-    test1: test1
-    test2: test2
-    area/enterprise_readiness: area/enterprise_readiness
-    improvement/enhancement: improvement/enhancement
-    priority/p1: priority/p1
-    priority/p2: priority/p2
-    kind/bug: kind/bug
-    community/question: community/question
+    test1: 'test1'
+    test2: 'test2'
+    area/enterprise_readiness: 'area/enterprise_readiness'
+    improvement/enhancement: 'improvement/enhancement'
+    priority/p0: 'priority/p0'
+    priority/p1: 'priority/p1'
+    priority/p2: 'priority/p2'
+    kind/bug: 'kind/bug'
+    community/question: 'community/question'
     area/tfjob: 'area/tfjob'
     area/inference: 'area/inference'
     area/kfctl: 'area/kfctl'
@@ -27,3 +28,4 @@ predicted-labels:
     lifecycle/stale: 'lifecycle/stale'
     area/example/code_search: 'area/example/code_search'
     area/example/issue_summarization: 'area/example/issue_summarization'
+    platform/gcp: 'platform/gcp'
