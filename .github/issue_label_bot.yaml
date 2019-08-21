@@ -24,3 +24,6 @@ predicted-labels:
     platform/minikube: ''
     cuj/build-train-deploy: ''
     area/0.5.0: ''
+    priority/p0: ''
+    priority/p1: ''
+    priority/p2: ''
