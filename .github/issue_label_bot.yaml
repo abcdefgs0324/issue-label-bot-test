@@ -1,29 +1,29 @@
 predicted-labels:
-    lifecycle/stale: ''
-    kind/bug: ''
-    improvement/enhancement: ''
-    community/question: ''
-    area/jupyter: ''
-    area/kfctl: ''
-    platform/gcp: ''
-    area/0.4.0: ''
-    area/testing: ''
-    area/inference: ''
-    area/0.3.0: ''
-    area/bootstrap: ''
-    area/front-end: ''
-    help wanted: ''
-    area/docs: ''
-    area/0.2.0: ''
-    area/build-release: ''
-    area/centraldashboard: ''
-    good first issue: ''
-    area/ksonnet: ''
-    cuj/multi-user: ''
-    area/tfjob: ''
-    platform/minikube: ''
-    cuj/build-train-deploy: ''
-    area/0.5.0: ''
-    priority/p0: ''
-    priority/p1: ''
-    priority/p2: ''
+    - lifecycle/stale
+    - kind/bug
+    - improvement/enhancement
+    - community/question
+    - area/jupyter
+    - area/kfctl
+    - platform/gcp
+    - area/0.4.0
+    - area/testing
+    - area/inference
+    - area/0.3.0
+    - area/bootstrap
+    - area/front-end
+    - help wanted
+    - area/docs
+    - area/0.2.0
+    - area/build-release
+    - area/centraldashboard
+    - good first issue
+    - area/ksonnet
+    - cuj/multi-user
+    - area/tfjob
+    - platform/minikube
+    - cuj/build-train-deploy
+    - area/0.5.0
+    - priority/p0
+    - priority/p1
+    - priority/p2
